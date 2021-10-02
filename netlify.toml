@@ -3,5 +3,5 @@
   functions = "functions"
   publish = "public"
 
-[plugins]
+[[plugins]]
   package = "@netlify/plugin-functions-install-core"
